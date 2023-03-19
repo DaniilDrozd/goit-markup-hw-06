@@ -975,11 +975,11 @@ ul {
 }
 .modal-form-link {
 }
-.modal-form-checkbox:checked + .modal-cust-checkbox {
+.modal-checkbox:checked + .modal-cust-checkbox {
   background-color: var(--main-title-color6);
   border: 1px solid var(--main-title-color6);
 }
-.modal-form-checkbox-icon:checked + .modal-cust-checkbox .modal-checkbox {
+.modal-checkbox:checked + .modal-cust-checkbox .modal-form-checkbox-icon {
   opacity: 1;
-  fill: var(--main-title-color6);
+  fill: var(--main-title-color);
 }
