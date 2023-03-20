@@ -503,6 +503,47 @@ ul {
 }
 .last-list-icon {
 }
+
+.last-form-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5px;
+  letter-spacing: 0.02em;
+  color: var(--main-title-color);
+  margin-bottom: 16px;
+}
+.last-form-wrap {
+  display: flex;
+}
+.last-form-input {
+  width: 264px;
+  height: 40px;
+  padding: 8px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+  background-color: transparent;
+}
+.last-submit-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5px;
+  letter-spacing: 0.04em;
+  border: none;
+  margin-right: 24px;
+  min-width: 165px;
+  padding: 8px 24px;
+  gap: 16px;
+  cursor: pointer;
+  background: var(--main-title-color6);
+  color: var(--main-title-color);
+}
+
+.subscribe-icon {
+}
 /* section last */
 
 /* 2 етап */
