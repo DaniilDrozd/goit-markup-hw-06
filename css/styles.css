@@ -544,7 +544,7 @@ ul {
   background: var(--main-title-color6);
   color: var(--main-title-color);
 }
-.last-input:focus {
+.last-form-input:focus {
   border-color: var(--main-title-color6);
 }
 
