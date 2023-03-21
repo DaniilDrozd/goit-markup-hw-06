@@ -546,6 +546,7 @@ ul {
 }
 .last-form-input:focus {
   border-color: var(--main-title-color6);
+  outline: none;
 }
 
 .subscribe-icon {
