@@ -890,7 +890,7 @@ ul {
   min-height: 576px;
   background-color: var(--main-title-color);
   border-radius: 4px;
-  padding: 20px;
+  padding: 24px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -926,11 +926,13 @@ ul {
   color: var(--main-title-color11);
 }
 .modal-title {
+  max-width: 360px;
+  padding-top: 72px;
   padding-bottom: 16px;
-  padding-top: 24px;
+  letter-spacing: 0.02em;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.5 px;
+  line-height: 1.5;
   text-align: center;
 }
 .form-input {
@@ -961,7 +963,7 @@ ul {
 }
 .modal-form-icon {
   top: 50%;
-  left: 16px;
+  left: 19px;
   position: absolute;
 }
 .modal-position {
@@ -976,6 +978,7 @@ ul {
   fill: var(--main-title-color6);
 }
 .form-textarea {
+  margin-top: 4px;
   display: inline-block;
   width: 100%;
   resize: none;
