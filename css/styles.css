@@ -961,7 +961,7 @@ ul {
 .modal-form-input-wrap {
 }
 .modal-form-icon {
-  top: 50%;
+  top: 16px;
   left: 19px;
   position: absolute;
 }
